@@ -1,4 +1,4 @@
-# Restaurant Management System (C++)
+# Restaurant Management System (DSA)
 A comprehensive management application focusing on Data Structures and File Handling.
 
 ## 🚀 Key Features
